@@ -1,0 +1,2 @@
+Hello,
+This is Git  4th practise file.
